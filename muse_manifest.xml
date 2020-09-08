@@ -1,0 +1,81 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="EVOL.ru" resolutions="1x" timestamp="1599556163056">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="174023990" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="e-v-o-l.rar" crc="208944658" seo="true" mt="1599554005000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="безымянный-3-u94-fr.jpg" crc="3914061110" ref="index"/>
+    <file name="безымянный-3.jpg" crc="252727657" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u113-10.png" crc="406197993" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u166_states.png" crc="4038646103" ref="index"/>
+    <file name="u166_states-r.png" crc="4005395185" ref="index"/>
+    <file name="u166_states-m.png" crc="115683361" ref="index"/>
+    <file name="u166_states-a.png" crc="4038646103" ref="index"/>
+    <file name="u209_states.png" crc="262565650" ref="index"/>
+    <file name="u209_states-r.png" crc="3795047544" ref="index"/>
+    <file name="u209_states-m.png" crc="61656579" ref="index"/>
+    <file name="u212_states.png" crc="4264642277" ref="index"/>
+    <file name="u212_states-r.png" crc="4052676101" ref="index"/>
+    <file name="u212_states-m.png" crc="3802192760" ref="index"/>
+    <file name="u215_states.png" crc="4258040705" ref="index"/>
+    <file name="u215_states-r.png" crc="3892028700" ref="index"/>
+    <file name="u215_states-m.png" crc="4003654774" ref="index"/>
+    <file name="u218_states.png" crc="450755767" ref="index"/>
+    <file name="u218_states-r.png" crc="75186565" ref="index"/>
+    <file name="u218_states-m.png" crc="186544314" ref="index"/>
+    <file name="u236-4.png" crc="4064659366" ref="index"/>
+    <file name="333.png" crc="3999520561" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33333.png" crc="3871864820" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u273.png" crc="79311994" ref="index"/>
+    <file name="u273-r.png" crc="4072636129" ref="index"/>
+    <file name="u285-4.png" crc="501928705" ref="index"/>
+    <file name="u169-6.png" crc="108871946" ref="index"/>
+    <file name="u282-4.png" crc="30377782" ref="index"/>
+    <file name="u175-6.png" crc="303906810" ref="index"/>
+    <file name="u279-4.png" crc="383490374" ref="index"/>
+    <file name="u172-6.png" crc="4200625074" ref="index"/>
+    <file name="u370-6.png" crc="4073419124" ref="index"/>
+    <file name="u409-4.png" crc="341794245" ref="index"/>
+    <file name="u436-6.png" crc="4073419124" ref="index"/>
+    <file name="u412-4.png" crc="341794245" ref="index"/>
+    <file name="u439-6.png" crc="4073419124" ref="index"/>
+    <file name="u379_states.png" crc="3767199116" ref="index"/>
+    <file name="u379_states-r.png" crc="394370232" ref="index"/>
+    <file name="u379_states-m.png" crc="468101965" ref="index"/>
+    <file name="u415-4.png" crc="341794245" ref="index"/>
+    <file name="u382.png" crc="37586188" ref="index"/>
+    <file name="u382-r.png" crc="310840600" ref="index"/>
+    <file name="u382-m.png" crc="310840600" ref="index"/>
+    <file name="u385.png" crc="307346617" ref="index"/>
+    <file name="u385-r.png" crc="13792267" ref="index"/>
+    <file name="u385-m.png" crc="13792267" ref="index"/>
+    <file name="u388.png" crc="3936832476" ref="index"/>
+    <file name="u388-r.png" crc="4171625270" ref="index"/>
+    <file name="u388-m.png" crc="4171625270" ref="index"/>
+    <file name="u391.png" crc="257295479" ref="index"/>
+    <file name="u391-r.png" crc="4220701613" ref="index"/>
+    <file name="u391-m.png" crc="4220701613" ref="index"/>
+  </folder>
+  <file name="index.html" crc="361274180" seo="true" mt="1599555382176" redirect="true"/>
+</manifest>
